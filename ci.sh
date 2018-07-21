@@ -73,7 +73,7 @@ echo
 ## created dir, updated content (first commit)
 ## UPDATED email
 
-git commit -m "UPDATED email"
+git commit -m "Port issue solved"
 
 ############
 # Step: 05 #
